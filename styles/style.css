@@ -203,7 +203,6 @@ letter-spacing: 30px;
   display: flex;
   width: 240px;
   height: 48px;
-  flex-shrink: 0;  
 }
 
 
