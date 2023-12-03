@@ -8,14 +8,14 @@ body {
   padding-right:49px;
   padding-left: 51px;
   margin-bottom: 92px;   
-  }
+}
 
 .header_container {
   display: flex;
   justify-content: space-between;
   width: 1340px;
   height: 109px; 
-  }
+}
 
 .header_links-list {
   display: flex;
@@ -51,7 +51,7 @@ body {
   height: 105px;
 } 
 
-.address {
+.header_address {
   color: #000;
   font-size: 18px;
   font-style: normal;
@@ -308,7 +308,7 @@ body {
 }
 
 
-.footer{
+.footer {
   display: flex;
   justify-content: space-between;
   margin-top: 180px;
