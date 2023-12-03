@@ -126,7 +126,7 @@ body {
 .cover__description {
   display: flex;
   justify-content: end;
-  gap: 78px; 
+  gap: 78px;
   padding-right: 50px;
   padding-bottom: 50px;
   z-index: 1;
