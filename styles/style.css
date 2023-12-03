@@ -2,6 +2,7 @@ body {
   max-width: 1440px;
   max-height: 2844px;
 }
+
 .header {
   width: 1340px;
   padding-top: 92px;
@@ -14,7 +15,7 @@ body {
   display: flex;
   justify-content: space-between;
   width: 1340px;
-  height: 109px; 
+  height: 109px;
 }
 
 .header_links-list {
@@ -115,11 +116,11 @@ body {
 }
 
 .letter-spacing-extended {
-  letter-spacing: 60px; 
+  letter-spacing: 60px;
 }
 
 .no-letter-spacing {
-  letter-spacing: 30px; 
+  letter-spacing: 30px;
 }
 
 .cover__description {
