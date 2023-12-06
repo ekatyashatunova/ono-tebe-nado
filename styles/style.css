@@ -30,7 +30,8 @@
   list-style: none;
 }
 
-.header_logo {display: grid;
+.header_logo {
+  display: grid;
   grid-template-columns: 1fr min-content 1fr;
   justify-items: center;
   justify-content: space-between;
