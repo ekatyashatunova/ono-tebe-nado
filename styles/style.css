@@ -30,8 +30,7 @@
   list-style: none;
 }
 
-.header_logo {
-  display: grid;;
+.header_logo {display: grid;
   grid-template-columns: 1fr min-content 1fr;
   justify-items: center;
   justify-content: space-between;
@@ -88,7 +87,7 @@
   flex-direction: column;
   gap: 20px;
   color: #fff;
-  line-height: 1.15; 
+  line-height: 1.15;
   letter-spacing: 30px;
   font-size: 100px;
   font-style: normal;
