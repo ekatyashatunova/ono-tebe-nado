@@ -181,7 +181,7 @@
   justify-content: space-between;
   position: relative;
   z-index: 1;
-  min-height: 100%;
+  min-height: 450px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -193,7 +193,6 @@
 }
 
 .card_type_book {
-  gap: 30px;
   background-image: url(../images/card-lot-02.jpg);
 }
 
